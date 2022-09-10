@@ -25,6 +25,5 @@ delay provoked by context switching.
 Keywords: gang scheduling, real-time, parallel, scheduling, interference, busy-waiting
 ```
 
-[A-real-time-implementation-of-gang-scheduling-on-embedded-platforms
-.pdf](https://github.com/valegr8/a-real-time-implementation-of-gang-scheduling-on-embedded-platforms/blob/main/A_real_time_implementation_of_gang_scheduling_on_embedded_platforms.pdf
+[A-real-time-implementation-of-gang-scheduling-on-embedded-platforms.pdf](https://github.com/valegr8/a-real-time-implementation-of-gang-scheduling-on-embedded-platforms/blob/main/A_real_time_implementation_of_gang_scheduling_on_embedded_platforms.pdf
 )
