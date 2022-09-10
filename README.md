@@ -1,6 +1,6 @@
 # A real-time implementation of Gang Scheduling on embedded platforms.
 
-Final dissertation.
+This repository contains the pdf version of my thesis on "A real-time implementation of gang scheduling on embedded platforms".
 
 Bachelor’s Degree in Computer Science at the Univerity of Trento, Italy. 
 
