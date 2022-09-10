@@ -9,10 +9,8 @@ By Valeria Grotto.
 
 ## Abstract
 
-This thesis describes the implementation and testing of a process scheduler that enforces
-a gang scheduling policy for PSE53, a novel real-time operative system developed by Huawei.
-This work was carried on during an internship at the Huawei’s Research Center in Pisa, Evi-
-dence S.r.l. The internship lasted 4 months, from February to June 2022.
+This thesis describes the implementation and testing of a process scheduler that enforces a gang scheduling policy for PSE53, a novel real-time operative system developed by Huawei.
+This work was carried on during an internship at the Huawei’s Research Center in Pisa, Evidence S.r.l. The internship lasted 4 months, from February to June 2022.
 
 
 Gang scheduling is a scheduling algorithm that schedules a set of threads to run in parallel
